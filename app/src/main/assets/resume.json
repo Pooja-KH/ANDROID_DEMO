@@ -1,0 +1,16 @@
+{
+  "name":"megha",
+  "Address":"Rabale",
+  "educational qualification":
+  {
+    "B.C.A":65,
+    "H.S.C":69,
+    "S.S.C":58
+  },
+  "Age":21,
+  "email":"developer.meghap@gmail.com",
+  "certification":{"course":["core java","android"]},
+  "hobbies":["playing kho-kho","watching movies","listening music"],
+  "contact no":70306857
+
+}
